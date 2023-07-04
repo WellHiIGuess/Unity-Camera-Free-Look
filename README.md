@@ -1,2 +1,3 @@
 # Unity-Camera-Free-Look
-A easy solution for a free look camera in unity.
+An easy solution for a free-look camera in Unity.
+This repository is a work in progress and not made for professional projects but, feel free to use it.
